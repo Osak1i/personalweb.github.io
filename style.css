@@ -76,13 +76,13 @@ img {
 }
 .corner-button {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 70px;
+    right: 10px;
     z-index: 100;
 }
 
 .corner-button img {
-    width: 50px; /* Adjust the size as needed */
+    width: 40px;
     height: auto;
     cursor: pointer;
 }
